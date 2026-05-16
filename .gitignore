@@ -1,5 +1,6 @@
 node_modules/
 users.db
+users.json
 hero-bg.png
 .DS_Store
 *.log
